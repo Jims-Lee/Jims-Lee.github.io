@@ -1,0 +1,20 @@
+{
+  "todoList": [
+    {
+      "text": "学会Python",
+      "checked": false
+    },
+    {
+      "text": "学会英语",
+      "checked": false
+    },
+    {
+      "text": "考SAP认证",
+      "checked": false
+    },
+    {
+      "text": "学PostgreSQL",
+      "checked": true
+    }
+  ]
+}

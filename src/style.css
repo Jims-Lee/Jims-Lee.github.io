@@ -1,0 +1,37 @@
+* {
+  transition: all .3s ease-in-out;
+}
+
+:root {
+  /* 背景颜色 */
+  --background: #d0e8ff;
+  /* 主题颜色 */
+  --theme-color: #ffb3b3;
+  /* 文字颜色 */
+  --text-color: #000;
+  /* 卡片背景颜色 */
+  --card-background: #ffffff7d;
+  /* 卡片边框颜色 */
+  --card-border-color: #fff;
+  /* 技术栈背景颜色 */
+  --techItem-background: #e5e5e5;
+  /* 提示文字颜色 */
+  --tip-color: #fff;
+  /* 加载动画背景颜色 */
+  --loading-background: var(--theme-color);
+}
+
+[theme='dark'] {
+  /* 背景颜色 */
+  --background: #222222;
+  /* 文字颜色 */
+  --text-color: #fff;
+  /* 卡片背景颜色 */
+  --card-background: #292929;
+  /* 卡片边框颜色 */
+  --card-border-color: #444444;
+  /* 技术栈背景颜色 */
+  --techItem-background: transparent;
+  /* 加载动画背景颜色 */
+  --loading-background: #2b2b2b;
+}
