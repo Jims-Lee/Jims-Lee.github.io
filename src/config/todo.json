@@ -1,6 +1,10 @@
 {
   "todoList": [
     {
+      "text": "找个女友",
+      "checked": false
+    },
+    {
       "text": "学会Python",
       "checked": false
     },
@@ -14,7 +18,7 @@
     },
     {
       "text": "学PostgreSQL",
-      "checked": true
+      "checked": false
     }
   ]
 }
